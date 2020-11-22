@@ -1,4 +1,4 @@
 <launch>
-	<node name="qt_twist" pkg="plugin_waypoint" type="plugin_waypoint">
+	<node name="waypoint_panel" pkg="plugin_waypoint" type="waypoint_panel">
 	</node>
 </launch>
